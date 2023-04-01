@@ -1,0 +1,94 @@
+{
+  "seriesVenue": [
+    {
+      "id": 50,
+      "ground": "Narendra Modi Stadium",
+      "city": "Ahmedabad",
+      "country": "India",
+      "imageId": "189174"
+    },
+    {
+      "id": 46,
+      "ground": "Punjab Cricket Association IS Bindra Stadium",
+      "city": "Mohali",
+      "country": "India",
+      "imageId": "189174"
+    },
+    {
+      "id": 485,
+      "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+      "city": "Lucknow",
+      "country": "India",
+      "imageId": "189174"
+    },
+    {
+      "id": 80,
+      "ground": "Rajiv Gandhi International Stadium",
+      "city": "Hyderabad",
+      "country": "India",
+      "imageId": "189174"
+    },
+    {
+      "id": 27,
+      "ground": "M.Chinnaswamy Stadium",
+      "city": "Bengaluru",
+      "country": "India",
+      "imageId": "189174"
+    },
+    {
+      "id": 11,
+      "ground": "MA Chidambaram Stadium",
+      "city": "Chennai",
+      "country": "India",
+      "imageId": "189174"
+    },
+    {
+      "id": 51,
+      "ground": "Arun Jaitley Stadium",
+      "city": "Delhi",
+      "country": "India",
+      "imageId": "189174"
+    },
+    {
+      "id": 380,
+      "ground": "Barsapara Cricket Stadium",
+      "city": "Guwahati",
+      "country": "India",
+      "imageId": "189174"
+    },
+    {
+      "id": 31,
+      "ground": "Eden Gardens",
+      "city": "Kolkata",
+      "country": "India",
+      "imageId": "189174"
+    },
+    {
+      "id": 81,
+      "ground": "Wankhede Stadium",
+      "city": "Mumbai",
+      "country": "India",
+      "imageId": "189174"
+    },
+    {
+      "id": 76,
+      "ground": "Sawai Mansingh Stadium",
+      "city": "Jaipur",
+      "country": "India",
+      "imageId": "189174"
+    },
+    {
+      "id": 155,
+      "ground": "Himachal Pradesh Cricket Association Stadium",
+      "city": "Dharamsala",
+      "country": "India",
+      "imageId": "189174"
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Indian Premier League 2023 Venues and Grounds - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  },
+  "seriesId": 5945,
+  "seriesName": "Indian Premier League 2023"
+}

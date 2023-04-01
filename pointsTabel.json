@@ -1,0 +1,529 @@
+{
+  "pointsTable": [
+    {
+      "groupName": "Teams",
+      "pointsTableInfo": [
+        {
+          "teamId": 1468,
+          "teamName": "MIW",
+          "matchesPlayed": 4,
+          "matchesWon": 4,
+          "points": 8,
+          "nrr": "+3.524",
+          "teamFullName": "Mumbai Indians Women",
+          "teamMatches": [
+            {
+              "opponent": "Gujarat Giants",
+              "startdt": "1677888000000",
+              "result": "Won by 143 runs",
+              "opponentSName": "GGT",
+              "matchId": 65809,
+              "matchName": "1st Match",
+              "winner": 1468,
+              "opponentId": 1479,
+              "opponentImageId": 254722
+            },
+            {
+              "opponent": "Royal Challengers Bangalore Women",
+              "startdt": "1678060800000",
+              "result": "Won by 9 wkts",
+              "opponentSName": "RCBW",
+              "matchId": 65826,
+              "matchName": "4th Match",
+              "winner": 1468,
+              "opponentId": 1465,
+              "opponentImageId": 254725
+            },
+            {
+              "opponent": "Delhi Capitals Women",
+              "startdt": "1678320000000",
+              "result": "Won by 8 wkts",
+              "opponentSName": "DCW",
+              "matchId": 65840,
+              "matchName": "7th Match",
+              "winner": 1468,
+              "opponentId": 1461,
+              "opponentImageId": 254726
+            },
+            {
+              "opponent": "UP Warriorz",
+              "startdt": "1678579200000",
+              "result": "Won by 8 wkts",
+              "opponentSName": "UPW",
+              "matchId": 65854,
+              "matchName": "10th Match",
+              "winner": 1468,
+              "opponentId": 1472,
+              "opponentImageId": 254738
+            },
+            {
+              "opponent": "Gujarat Giants",
+              "startdt": "1678752000000",
+              "opponentSName": "GGT",
+              "matchId": 65861,
+              "matchName": "12th Match",
+              "winner": 1,
+              "opponentId": 1479,
+              "opponentImageId": 254722
+            },
+            {
+              "opponent": "UP Warriorz",
+              "startdt": "1679097600000",
+              "opponentSName": "UPW",
+              "matchId": 65872,
+              "matchName": "15th Match",
+              "winner": 1,
+              "opponentId": 1472,
+              "opponentImageId": 254738
+            },
+            {
+              "opponent": "Delhi Capitals Women",
+              "startdt": "1679270400000",
+              "opponentSName": "DCW",
+              "matchId": 65889,
+              "matchName": "18th Match",
+              "winner": 1,
+              "opponentId": 1461,
+              "opponentImageId": 254726
+            },
+            {
+              "opponent": "Royal Challengers Bangalore Women",
+              "startdt": "1679356800000",
+              "opponentSName": "RCBW",
+              "matchId": 65893,
+              "matchName": "19th Match",
+              "winner": 1,
+              "opponentId": 1465,
+              "opponentImageId": 254725
+            }
+          ],
+          "form": [
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "teamImageId": 254724
+        },
+        {
+          "teamId": 1461,
+          "teamName": "DCW",
+          "matchesPlayed": 5,
+          "matchesWon": 4,
+          "matchesLost": 1,
+          "points": 8,
+          "nrr": "+1.887",
+          "teamFullName": "Delhi Capitals Women",
+          "teamMatches": [
+            {
+              "opponent": "Royal Challengers Bangalore Women",
+              "startdt": "1677974400000",
+              "result": "Won by 60 runs",
+              "opponentSName": "RCBW",
+              "matchId": 65816,
+              "matchName": "2nd Match",
+              "winner": 1461,
+              "opponentId": 1465,
+              "opponentImageId": 254725
+            },
+            {
+              "opponent": "UP Warriorz",
+              "startdt": "1678147200000",
+              "result": "Won by 42 runs",
+              "opponentSName": "UPW",
+              "matchId": 65830,
+              "matchName": "5th Match",
+              "winner": 1461,
+              "opponentId": 1472,
+              "opponentImageId": 254738
+            },
+            {
+              "opponent": "Mumbai Indians Women",
+              "startdt": "1678320000000",
+              "result": "Loss by 8 wkts",
+              "opponentSName": "MIW",
+              "matchId": 65840,
+              "matchName": "7th Match",
+              "winner": 1468,
+              "opponentId": 1468,
+              "opponentImageId": 254724
+            },
+            {
+              "opponent": "Gujarat Giants",
+              "startdt": "1678492800000",
+              "result": "Won by 10 wkts",
+              "opponentSName": "GGT",
+              "matchId": 65851,
+              "matchName": "9th Match",
+              "winner": 1461,
+              "opponentId": 1479,
+              "opponentImageId": 254722
+            },
+            {
+              "opponent": "Royal Challengers Bangalore Women",
+              "startdt": "1678665600000",
+              "result": "Won by 6 wkts",
+              "opponentSName": "RCBW",
+              "matchId": 65858,
+              "matchName": "11th Match",
+              "winner": 1461,
+              "opponentId": 1465,
+              "opponentImageId": 254725
+            },
+            {
+              "opponent": "Gujarat Giants",
+              "startdt": "1678924800000",
+              "opponentSName": "GGT",
+              "matchId": 65868,
+              "matchName": "14th Match",
+              "winner": 1,
+              "opponentId": 1479,
+              "opponentImageId": 254722
+            },
+            {
+              "opponent": "Mumbai Indians Women",
+              "startdt": "1679270400000",
+              "opponentSName": "MIW",
+              "matchId": 65889,
+              "matchName": "18th Match",
+              "winner": 1,
+              "opponentId": 1468,
+              "opponentImageId": 254724
+            },
+            {
+              "opponent": "UP Warriorz",
+              "startdt": "1679356800000",
+              "opponentSName": "UPW",
+              "matchId": 65900,
+              "matchName": "20th Match",
+              "winner": 1,
+              "opponentId": 1472,
+              "opponentImageId": 254738
+            }
+          ],
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "W"
+          ],
+          "teamImageId": 254726
+        },
+        {
+          "teamId": 1472,
+          "teamName": "UPW",
+          "matchesPlayed": 4,
+          "matchesWon": 2,
+          "matchesLost": 2,
+          "points": 4,
+          "nrr": "+0.015",
+          "teamFullName": "UP Warriorz",
+          "teamMatches": [
+            {
+              "opponent": "Gujarat Giants",
+              "startdt": "1677974400000",
+              "result": "Won by 3 wkts",
+              "opponentSName": "GGT",
+              "matchId": 65819,
+              "matchName": "3rd Match",
+              "winner": 1472,
+              "opponentId": 1479,
+              "opponentImageId": 254722
+            },
+            {
+              "opponent": "Delhi Capitals Women",
+              "startdt": "1678147200000",
+              "result": "Loss by 42 runs",
+              "opponentSName": "DCW",
+              "matchId": 65830,
+              "matchName": "5th Match",
+              "winner": 1461,
+              "opponentId": 1461,
+              "opponentImageId": 254726
+            },
+            {
+              "opponent": "Royal Challengers Bangalore Women",
+              "startdt": "1678406400000",
+              "result": "Won by 10 wkts",
+              "opponentSName": "RCBW",
+              "matchId": 65844,
+              "matchName": "8th Match",
+              "winner": 1472,
+              "opponentId": 1465,
+              "opponentImageId": 254725
+            },
+            {
+              "opponent": "Mumbai Indians Women",
+              "startdt": "1678579200000",
+              "result": "Loss by 8 wkts",
+              "opponentSName": "MIW",
+              "matchId": 65854,
+              "matchName": "10th Match",
+              "winner": 1468,
+              "opponentId": 1468,
+              "opponentImageId": 254724
+            },
+            {
+              "opponent": "Royal Challengers Bangalore Women",
+              "startdt": "1678838400000",
+              "opponentSName": "RCBW",
+              "matchId": 65865,
+              "matchName": "13th Match",
+              "winner": 1,
+              "opponentId": 1465,
+              "opponentImageId": 254725
+            },
+            {
+              "opponent": "Mumbai Indians Women",
+              "startdt": "1679097600000",
+              "opponentSName": "MIW",
+              "matchId": 65872,
+              "matchName": "15th Match",
+              "winner": 1,
+              "opponentId": 1468,
+              "opponentImageId": 254724
+            },
+            {
+              "opponent": "Gujarat Giants",
+              "startdt": "1679270400000",
+              "opponentSName": "GGT",
+              "matchId": 65886,
+              "matchName": "17th Match",
+              "winner": 1,
+              "opponentId": 1479,
+              "opponentImageId": 254722
+            },
+            {
+              "opponent": "Delhi Capitals Women",
+              "startdt": "1679356800000",
+              "opponentSName": "DCW",
+              "matchId": 65900,
+              "matchName": "20th Match",
+              "winner": 1,
+              "opponentId": 1461,
+              "opponentImageId": 254726
+            }
+          ],
+          "form": [
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "teamImageId": 254738
+        },
+        {
+          "teamId": 1479,
+          "teamName": "GGT",
+          "matchesPlayed": 4,
+          "matchesWon": 1,
+          "matchesLost": 3,
+          "points": 2,
+          "nrr": "-3.397",
+          "teamFullName": "Gujarat Giants",
+          "teamMatches": [
+            {
+              "opponent": "Mumbai Indians Women",
+              "startdt": "1677888000000",
+              "result": "Loss by 143 runs",
+              "opponentSName": "MIW",
+              "matchId": 65809,
+              "matchName": "1st Match",
+              "winner": 1468,
+              "opponentId": 1468,
+              "opponentImageId": 254724
+            },
+            {
+              "opponent": "UP Warriorz",
+              "startdt": "1677974400000",
+              "result": "Loss by 3 wkts",
+              "opponentSName": "UPW",
+              "matchId": 65819,
+              "matchName": "3rd Match",
+              "winner": 1472,
+              "opponentId": 1472,
+              "opponentImageId": 254738
+            },
+            {
+              "opponent": "Royal Challengers Bangalore Women",
+              "startdt": "1678233600000",
+              "result": "Won by 11 runs",
+              "opponentSName": "RCBW",
+              "matchId": 65833,
+              "matchName": "6th Match",
+              "winner": 1479,
+              "opponentId": 1465,
+              "opponentImageId": 254725
+            },
+            {
+              "opponent": "Delhi Capitals Women",
+              "startdt": "1678492800000",
+              "result": "Loss by 10 wkts",
+              "opponentSName": "DCW",
+              "matchId": 65851,
+              "matchName": "9th Match",
+              "winner": 1461,
+              "opponentId": 1461,
+              "opponentImageId": 254726
+            },
+            {
+              "opponent": "Mumbai Indians Women",
+              "startdt": "1678752000000",
+              "opponentSName": "MIW",
+              "matchId": 65861,
+              "matchName": "12th Match",
+              "winner": 1,
+              "opponentId": 1468,
+              "opponentImageId": 254724
+            },
+            {
+              "opponent": "Delhi Capitals Women",
+              "startdt": "1678924800000",
+              "opponentSName": "DCW",
+              "matchId": 65868,
+              "matchName": "14th Match",
+              "winner": 1,
+              "opponentId": 1461,
+              "opponentImageId": 254726
+            },
+            {
+              "opponent": "Royal Challengers Bangalore Women",
+              "startdt": "1679097600000",
+              "opponentSName": "RCBW",
+              "matchId": 65879,
+              "matchName": "16th Match",
+              "winner": 1,
+              "opponentId": 1465,
+              "opponentImageId": 254725
+            },
+            {
+              "opponent": "UP Warriorz",
+              "startdt": "1679270400000",
+              "opponentSName": "UPW",
+              "matchId": 65886,
+              "matchName": "17th Match",
+              "winner": 1,
+              "opponentId": 1472,
+              "opponentImageId": 254738
+            }
+          ],
+          "form": [
+            "L",
+            "L",
+            "W",
+            "L"
+          ],
+          "teamImageId": 254722
+        },
+        {
+          "teamId": 1465,
+          "teamName": "RCBW",
+          "matchesPlayed": 5,
+          "matchesLost": 5,
+          "nrr": "-2.109",
+          "teamFullName": "Royal Challengers Bangalore Women",
+          "teamMatches": [
+            {
+              "opponent": "Delhi Capitals Women",
+              "startdt": "1677974400000",
+              "result": "Loss by 60 runs",
+              "opponentSName": "DCW",
+              "matchId": 65816,
+              "matchName": "2nd Match",
+              "winner": 1461,
+              "opponentId": 1461,
+              "opponentImageId": 254726
+            },
+            {
+              "opponent": "Mumbai Indians Women",
+              "startdt": "1678060800000",
+              "result": "Loss by 9 wkts",
+              "opponentSName": "MIW",
+              "matchId": 65826,
+              "matchName": "4th Match",
+              "winner": 1468,
+              "opponentId": 1468,
+              "opponentImageId": 254724
+            },
+            {
+              "opponent": "Gujarat Giants",
+              "startdt": "1678233600000",
+              "result": "Loss by 11 runs",
+              "opponentSName": "GGT",
+              "matchId": 65833,
+              "matchName": "6th Match",
+              "winner": 1479,
+              "opponentId": 1479,
+              "opponentImageId": 254722
+            },
+            {
+              "opponent": "UP Warriorz",
+              "startdt": "1678406400000",
+              "result": "Loss by 10 wkts",
+              "opponentSName": "UPW",
+              "matchId": 65844,
+              "matchName": "8th Match",
+              "winner": 1472,
+              "opponentId": 1472,
+              "opponentImageId": 254738
+            },
+            {
+              "opponent": "Delhi Capitals Women",
+              "startdt": "1678665600000",
+              "result": "Loss by 6 wkts",
+              "opponentSName": "DCW",
+              "matchId": 65858,
+              "matchName": "11th Match",
+              "winner": 1461,
+              "opponentId": 1461,
+              "opponentImageId": 254726
+            },
+            {
+              "opponent": "UP Warriorz",
+              "startdt": "1678838400000",
+              "opponentSName": "UPW",
+              "matchId": 65865,
+              "matchName": "13th Match",
+              "winner": 1,
+              "opponentId": 1472,
+              "opponentImageId": 254738
+            },
+            {
+              "opponent": "Gujarat Giants",
+              "startdt": "1679097600000",
+              "opponentSName": "GGT",
+              "matchId": 65879,
+              "matchName": "16th Match",
+              "winner": 1,
+              "opponentId": 1479,
+              "opponentImageId": 254722
+            },
+            {
+              "opponent": "Mumbai Indians Women",
+              "startdt": "1679356800000",
+              "opponentSName": "MIW",
+              "matchId": 65893,
+              "matchName": "19th Match",
+              "winner": 1,
+              "opponentId": 1468,
+              "opponentImageId": 254724
+            }
+          ],
+          "form": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "teamImageId": 254725
+        }
+      ]
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Womens Premier League 2023 Points Table | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/5938/womens-premier-league-2023/points-table"
+  }
+}

@@ -1,0 +1,2748 @@
+{
+  "matchDetails": [
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 31 Mar 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66169,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "1st Match",
+              "matchFormat": "T20",
+              "startDate": "1680271200000",
+              "endDate": "1680283800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_1",
+        "layout": "native_large",
+        "position": 1
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 01 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66173,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "2nd Match",
+              "matchFormat": "T20",
+              "startDate": "1680343200000",
+              "endDate": "1680355800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "id": 46,
+                "ground": "Punjab Cricket Association IS Bindra Stadium",
+                "city": "Mohali",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66176,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "3rd Match",
+              "matchFormat": "T20",
+              "startDate": "1680357600000",
+              "endDate": "1680370200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "id": 485,
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 02 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66183,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "4th Match",
+              "matchFormat": "T20",
+              "startDate": "1680429600000",
+              "endDate": "1680442200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "id": 80,
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66190,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "5th Match",
+              "matchFormat": "T20",
+              "startDate": "1680444000000",
+              "endDate": "1680456600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "id": 27,
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 03 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66197,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "6th Match",
+              "matchFormat": "T20",
+              "startDate": "1680530400000",
+              "endDate": "1680543000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "adDetail": {
+        "name": "native_news_index_random_2",
+        "layout": "native_large",
+        "position": 4
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 04 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66204,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "7th Match",
+              "matchFormat": "T20",
+              "startDate": "1680616800000",
+              "endDate": "1680629400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 05 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66208,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "8th Match",
+              "matchFormat": "T20",
+              "startDate": "1680703200000",
+              "endDate": "1680715800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "id": 380,
+                "ground": "Barsapara Cricket Stadium",
+                "city": "Guwahati",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 06 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66211,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "9th Match",
+              "matchFormat": "T20",
+              "startDate": "1680789600000",
+              "endDate": "1680802200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 07 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66215,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "10th Match",
+              "matchFormat": "T20",
+              "startDate": "1680876000000",
+              "endDate": "1680888600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "id": 485,
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 08 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66218,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "11th Match",
+              "matchFormat": "T20",
+              "startDate": "1680948000000",
+              "endDate": "1680960600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "id": 380,
+                "ground": "Barsapara Cricket Stadium",
+                "city": "Guwahati",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66225,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "12th Match",
+              "matchFormat": "T20",
+              "startDate": "1680962400000",
+              "endDate": "1680975000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 09 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66232,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "13th Match",
+              "matchFormat": "T20",
+              "startDate": "1681034400000",
+              "endDate": "1681047000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66236,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "14th Match",
+              "matchFormat": "T20",
+              "startDate": "1681048800000",
+              "endDate": "1681061400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "id": 80,
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 10 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66239,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "15th Match",
+              "matchFormat": "T20",
+              "startDate": "1681135200000",
+              "endDate": "1681147800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "venueInfo": {
+                "id": 27,
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 11 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66243,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "16th Match",
+              "matchFormat": "T20",
+              "startDate": "1681221600000",
+              "endDate": "1681234200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 12 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66250,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "17th Match",
+              "matchFormat": "T20",
+              "startDate": "1681308000000",
+              "endDate": "1681320600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 13 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66253,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "18th Match",
+              "matchFormat": "T20",
+              "startDate": "1681394400000",
+              "endDate": "1681407000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "id": 46,
+                "ground": "Punjab Cricket Association IS Bindra Stadium",
+                "city": "Mohali",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 14 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66257,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "19th Match",
+              "matchFormat": "T20",
+              "startDate": "1681480800000",
+              "endDate": "1681493400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 15 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66260,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "20th Match",
+              "matchFormat": "T20",
+              "startDate": "1681552800000",
+              "endDate": "1681565400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "id": 27,
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66264,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "21st Match",
+              "matchFormat": "T20",
+              "startDate": "1681567200000",
+              "endDate": "1681579800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "id": 485,
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 16 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66271,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "22nd Match",
+              "matchFormat": "T20",
+              "startDate": "1681639200000",
+              "endDate": "1681651800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66274,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "23rd Match",
+              "matchFormat": "T20",
+              "startDate": "1681653600000",
+              "endDate": "1681666200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 17 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66278,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "24th Match",
+              "matchFormat": "T20",
+              "startDate": "1681740000000",
+              "endDate": "1681752600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "id": 27,
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 18 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66285,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "25th Match",
+              "matchFormat": "T20",
+              "startDate": "1681826400000",
+              "endDate": "1681839000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "id": 80,
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 19 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66292,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "26th Match",
+              "matchFormat": "T20",
+              "startDate": "1681912800000",
+              "endDate": "1681925400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "venueInfo": {
+                "id": 76,
+                "ground": "Sawai Mansingh Stadium",
+                "city": "Jaipur",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 20 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66313,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "27th Match",
+              "matchFormat": "T20",
+              "startDate": "1681984800000",
+              "endDate": "1681997400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "id": 46,
+                "ground": "Punjab Cricket Association IS Bindra Stadium",
+                "city": "Mohali",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66330,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "28th Match",
+              "matchFormat": "T20",
+              "startDate": "1681999200000",
+              "endDate": "1682011800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 21 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66351,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "29th Match",
+              "matchFormat": "T20",
+              "startDate": "1682085600000",
+              "endDate": "1682098200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 22 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66369,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "30th Match",
+              "matchFormat": "T20",
+              "startDate": "1682157600000",
+              "endDate": "1682170200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "id": 485,
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66404,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "31st Match",
+              "matchFormat": "T20",
+              "startDate": "1682172000000",
+              "endDate": "1682184600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 23 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66421,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "32nd Match",
+              "matchFormat": "T20",
+              "startDate": "1682244000000",
+              "endDate": "1682256600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "id": 27,
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66435,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "33rd Match",
+              "matchFormat": "T20",
+              "startDate": "1682258400000",
+              "endDate": "1682271000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 24 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66449,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "34th Match",
+              "matchFormat": "T20",
+              "startDate": "1682344800000",
+              "endDate": "1682357400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "id": 80,
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 25 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66470,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "35th Match",
+              "matchFormat": "T20",
+              "startDate": "1682431200000",
+              "endDate": "1682443800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 26 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66484,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "36th Match",
+              "matchFormat": "T20",
+              "startDate": "1682517600000",
+              "endDate": "1682530200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "id": 27,
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 27 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66502,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "37th Match",
+              "matchFormat": "T20",
+              "startDate": "1682604000000",
+              "endDate": "1682616600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "id": 76,
+                "ground": "Sawai Mansingh Stadium",
+                "city": "Jaipur",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 28 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66512,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "38th Match",
+              "matchFormat": "T20",
+              "startDate": "1682690400000",
+              "endDate": "1682703000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "venueInfo": {
+                "id": 46,
+                "ground": "Punjab Cricket Association IS Bindra Stadium",
+                "city": "Mohali",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 29 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66519,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "39th Match",
+              "matchFormat": "T20",
+              "startDate": "1682762400000",
+              "endDate": "1682775000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66526,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "40th Match",
+              "matchFormat": "T20",
+              "startDate": "1682776800000",
+              "endDate": "1682789400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 30 Apr 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66288,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "41st Match",
+              "matchFormat": "T20",
+              "startDate": "1682848800000",
+              "endDate": "1682861400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66299,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "42nd Match",
+              "matchFormat": "T20",
+              "startDate": "1682863200000",
+              "endDate": "1682875800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 01 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66306,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "43rd Match",
+              "matchFormat": "T20",
+              "startDate": "1682949600000",
+              "endDate": "1682962200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "id": 485,
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 02 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66320,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "44th Match",
+              "matchFormat": "T20",
+              "startDate": "1683036000000",
+              "endDate": "1683048600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 03 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66327,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "45th Match",
+              "matchFormat": "T20",
+              "startDate": "1683122400000",
+              "endDate": "1683135000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "id": 46,
+                "ground": "Punjab Cricket Association IS Bindra Stadium",
+                "city": "Mohali",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 04 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66337,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "46th Match",
+              "matchFormat": "T20",
+              "startDate": "1683194400000",
+              "endDate": "1683207000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "id": 485,
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66344,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "47th Match",
+              "matchFormat": "T20",
+              "startDate": "1683208800000",
+              "endDate": "1683221400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "id": 80,
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 05 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66348,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "48th Match",
+              "matchFormat": "T20",
+              "startDate": "1683295200000",
+              "endDate": "1683307800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "id": 76,
+                "ground": "Sawai Mansingh Stadium",
+                "city": "Jaipur",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 06 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66355,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "49th Match",
+              "matchFormat": "T20",
+              "startDate": "1683367200000",
+              "endDate": "1683379800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66358,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "50th Match",
+              "matchFormat": "T20",
+              "startDate": "1683381600000",
+              "endDate": "1683394200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 07 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66365,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "51st Match",
+              "matchFormat": "T20",
+              "startDate": "1683453600000",
+              "endDate": "1683466200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66376,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "52nd Match",
+              "matchFormat": "T20",
+              "startDate": "1683468000000",
+              "endDate": "1683480600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "id": 76,
+                "ground": "Sawai Mansingh Stadium",
+                "city": "Jaipur",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 08 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66379,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "53rd Match",
+              "matchFormat": "T20",
+              "startDate": "1683554400000",
+              "endDate": "1683567000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 09 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66386,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "54th Match",
+              "matchFormat": "T20",
+              "startDate": "1683640800000",
+              "endDate": "1683653400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 10 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66393,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "55th Match",
+              "matchFormat": "T20",
+              "startDate": "1683727200000",
+              "endDate": "1683739800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 11 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66397,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "56th Match",
+              "matchFormat": "T20",
+              "startDate": "1683813600000",
+              "endDate": "1683826200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 12 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66411,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "57th Match",
+              "matchFormat": "T20",
+              "startDate": "1683900000000",
+              "endDate": "1683912600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 13 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66414,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "58th Match",
+              "matchFormat": "T20",
+              "startDate": "1683972000000",
+              "endDate": "1683984600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "venueInfo": {
+                "id": 80,
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66428,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "59th Match",
+              "matchFormat": "T20",
+              "startDate": "1683986400000",
+              "endDate": "1683999000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 14 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66432,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "60th Match",
+              "matchFormat": "T20",
+              "startDate": "1684058400000",
+              "endDate": "1684071000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "id": 76,
+                "ground": "Sawai Mansingh Stadium",
+                "city": "Jaipur",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66442,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "61st Match",
+              "matchFormat": "T20",
+              "startDate": "1684072800000",
+              "endDate": "1684085400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "team2": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "venueInfo": {
+                "id": 11,
+                "ground": "MA Chidambaram Stadium",
+                "city": "Chennai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Mon, 15 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66446,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "62nd Match",
+              "matchFormat": "T20",
+              "startDate": "1684159200000",
+              "endDate": "1684171800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "id": 50,
+                "ground": "Narendra Modi Stadium",
+                "city": "Ahmedabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Tue, 16 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66453,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "63rd Match",
+              "matchFormat": "T20",
+              "startDate": "1684245600000",
+              "endDate": "1684258200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "team2": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "venueInfo": {
+                "id": 485,
+                "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                "city": "Lucknow",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Wed, 17 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66460,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "64th Match",
+              "matchFormat": "T20",
+              "startDate": "1684332000000",
+              "endDate": "1684344600000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "venueInfo": {
+                "id": 155,
+                "ground": "Himachal Pradesh Cricket Association Stadium",
+                "city": "Dharamsala",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Thu, 18 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66467,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "65th Match",
+              "matchFormat": "T20",
+              "startDate": "1684418400000",
+              "endDate": "1684431000000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "team2": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "venueInfo": {
+                "id": 80,
+                "ground": "Rajiv Gandhi International Stadium",
+                "city": "Hyderabad",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Fri, 19 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66477,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "66th Match",
+              "matchFormat": "T20",
+              "startDate": "1684504800000",
+              "endDate": "1684517400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 65,
+                "teamName": "Punjab Kings",
+                "teamSName": "PBKS",
+                "imageId": 225648
+              },
+              "team2": {
+                "teamId": 64,
+                "teamName": "Rajasthan Royals",
+                "teamSName": "RR",
+                "imageId": 225647
+              },
+              "venueInfo": {
+                "id": 155,
+                "ground": "Himachal Pradesh Cricket Association Stadium",
+                "city": "Dharamsala",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sat, 20 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66481,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "67th Match",
+              "matchFormat": "T20",
+              "startDate": "1684576800000",
+              "endDate": "1684589400000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 61,
+                "teamName": "Delhi Capitals",
+                "teamSName": "DC",
+                "imageId": 225644
+              },
+              "team2": {
+                "teamId": 58,
+                "teamName": "Chennai Super Kings",
+                "teamSName": "CSK",
+                "imageId": 225641
+              },
+              "venueInfo": {
+                "id": 51,
+                "ground": "Arun Jaitley Stadium",
+                "city": "Delhi",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66488,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "68th Match",
+              "matchFormat": "T20",
+              "startDate": "1684591200000",
+              "endDate": "1684603800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 63,
+                "teamName": "Kolkata Knight Riders",
+                "teamSName": "KKR",
+                "imageId": 225646
+              },
+              "team2": {
+                "teamId": 966,
+                "teamName": "Lucknow Super Giants",
+                "teamSName": "LSG",
+                "imageId": 228727
+              },
+              "venueInfo": {
+                "id": 31,
+                "ground": "Eden Gardens",
+                "city": "Kolkata",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    },
+    {
+      "matchDetailsMap": {
+        "key": "Sun, 21 May 2023",
+        "match": [
+          {
+            "matchInfo": {
+              "matchId": 66495,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "69th Match",
+              "matchFormat": "T20",
+              "startDate": "1684663200000",
+              "endDate": "1684675800000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 62,
+                "teamName": "Mumbai Indians",
+                "teamSName": "MI",
+                "imageId": 225645
+              },
+              "team2": {
+                "teamId": 255,
+                "teamName": "Sunrisers Hyderabad",
+                "teamSName": "SRH",
+                "imageId": 225649
+              },
+              "venueInfo": {
+                "id": 81,
+                "ground": "Wankhede Stadium",
+                "city": "Mumbai",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          },
+          {
+            "matchInfo": {
+              "matchId": 66505,
+              "seriesId": 5945,
+              "seriesName": "Indian Premier League 2023",
+              "matchDesc": "70th Match",
+              "matchFormat": "T20",
+              "startDate": "1684677600000",
+              "endDate": "1684690200000",
+              "state": "Upcoming",
+              "team1": {
+                "teamId": 59,
+                "teamName": "Royal Challengers Bangalore",
+                "teamSName": "RCB",
+                "imageId": 225643
+              },
+              "team2": {
+                "teamId": 971,
+                "teamName": "Gujarat Titans",
+                "teamSName": "GT",
+                "imageId": 235085
+              },
+              "venueInfo": {
+                "id": 27,
+                "ground": "M.Chinnaswamy Stadium",
+                "city": "Bengaluru",
+                "timezone": "+05:30"
+              },
+              "seriesStartDt": "1680220800000",
+              "seriesEndDt": "1685404800000",
+              "isTimeAnnounced": true
+            }
+          }
+        ],
+        "seriesId": 5945
+      }
+    }
+  ],
+  "appIndex": {
+    "seoTitle": "Indian Premier League 2023 live scores, schedule and results - Cricbuzz | Cricbuzz.com",
+    "webURL": "www.cricbuzz.com/cricket-series/"
+  }
+}
